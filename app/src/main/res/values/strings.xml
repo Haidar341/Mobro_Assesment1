@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kopiku</string>
+    <string name="text">Masukan nama anda</string>
+    <string name="information_activity_label" translatable="true">Informasi Aplikasi</string>
+</resources>

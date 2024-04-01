@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCofee</string>
+    <string name="text">Insert Your Name</string>
+    <string name="information_activity_label">Aplication Information</string>
+</resources>
